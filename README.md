@@ -1,2 +1,2 @@
 # ICTGV_deraining
-Multi-directional rain streaks removal 
+Code for the paper **Multi-directional Rain Streak Removal Based on Infimal Convolution of Oscillation TGV**
